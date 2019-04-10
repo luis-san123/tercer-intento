@@ -1,0 +1,21 @@
+﻿
+estilos de mi menu 
+
+.vertical-menu {
+  width: 200px; 
+}
+
+.vertical-menu a {
+  background-color: #eee; 
+  color: black; 
+  display: block; 
+  padding: 12px; 
+  text-decoration: none;
+
+}
+
+estilo de texto
+.texto_grande{
+  font-size=10px;
+}
+
